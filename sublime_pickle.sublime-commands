@@ -1,0 +1,4 @@
+[
+    { "caption": "Unpickle Selection", "command": "unpickle" },
+    { "caption": "Pickle Selection (Unsafe eval)", "command": "pickle" },
+]
